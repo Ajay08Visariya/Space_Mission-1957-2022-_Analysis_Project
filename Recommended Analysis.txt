@@ -1,0 +1,9 @@
+Project : Space Missions (1957- August 2022) Analysis
+
+Recommended Analysis :
+(1) How have rocket launches trended across time ?
+(2) Has space mission success rate increased ?
+(3) Which company have had the most successful space missions ?
+(4) Which rocket has been used for the most space missions ?
+(5) Rockets that are still active.
+(6) Are there any patterns with the launch locations
